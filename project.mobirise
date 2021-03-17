@@ -48,24 +48,8 @@
     "uniqCompNum": 31,
     "versionPublish": "5.3.2",
     "imageResize": true,
-    "chatbutton": {
-      "phone": "+12345678901",
-      "message": "",
-      "size": "65px",
-      "backgroundColor": "#e5ddd5",
-      "position": "left",
-      "popupMessage": "tapez votre message et validez !\nWhatsapp s\"ouvrira et votre message sera envoyé",
-      "showPopup": true,
-      "showOnIE": true,
-      "autoOpenTimeout": "0",
-      "headerColor": "#39847a",
-      "headerTitle": "Interessé?",
-      "placeholder": "Type here",
-      "zIndex": 10,
-      "enabled": true
-    },
     "favicon": false,
-    "mbrsiteDomain": "3kju3vhi7o",
+    "mbrsiteDomain": "oonra4zhao",
     "cssOptimize": false,
     "lazyLoad": true,
     "lazyType": "nothing",
@@ -94,17 +78,19 @@
       "themeColor": "#ffffff"
     },
     "screenshot": "screenshot.png",
-    "witsec-white-label": false
+    "witsec-white-label": false,
+    "chatbutton": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Deratpro le Spécialiste du traitement contre les nuisibles à Paris",
+        "title": "Derattack le Spécialiste du traitement contre les nuisibles à Paris",
         "meta_descr": "URGENCE 24/7 \nSpécialiste du traitement contre les nuisibles à Paris et en Ile de France",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/ratus-81x81.png"
       },
       "components": [
         {
